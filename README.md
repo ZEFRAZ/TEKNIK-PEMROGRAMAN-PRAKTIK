@@ -15,5 +15,5 @@ Klik link di bawah untuk mengakses materi pembelajaran dari setiap pertemuan.
 |       4     | Inheritance, Abstract Class, INterface, Polimorphism           | [Lihat Materi](https://github.com/ZEFRAZ/teknik-pemrograman-java/tree/Pertemuan-4) |
 |       5     | Java Collection Framework  | [Lihat Materi](https://github.com/ZEFRAZ/teknik-pemrograman-java/tree/Pertemuan-5) |
 |       6     | Defensive Programming                   | [Lihat Materi](https://github.com/ZEFRAZ/teknik-pemrograman-java/tree/Pertemuan-6) |
-|       7     | Cohesian dan Coupling     | [Lihat Materi](https://github.com/ZEFRAZ/teknik-pemrograman-java/tree/Pertemuan-7) |
+|       7     | Cohesion dan Coupling     | [Lihat Materi](https://github.com/ZEFRAZ/teknik-pemrograman-java/tree/Pertemuan-7) |
 
