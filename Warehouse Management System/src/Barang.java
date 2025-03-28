@@ -1,0 +1,1 @@
+public record Barang(String nama, String kategori, double harga) {}

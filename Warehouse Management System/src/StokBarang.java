@@ -1,0 +1,1 @@
+public record StokBarang(Barang barang, int stok) {}
