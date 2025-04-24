@@ -16,4 +16,6 @@ Klik link di bawah untuk mengakses materi pembelajaran dari setiap pertemuan.
 |       5     | Java Collection Framework  | [Lihat Materi](https://github.com/ZEFRAZ/TEKNIK-PEMROGRAMAN-PRAKTIK/tree/Pertemuan-5) |
 |       6     | Defensive Programming                   | [Lihat Materi](https://github.com/ZEFRAZ/TEKNIK-PEMROGRAMAN-PRAKTIK/tree/Pertemuan-6) |
 |       7     | Cohesion dan Coupling     | [Lihat Materi](https://github.com/ZEFRAZ/TEKNIK-PEMROGRAMAN-PRAKTIK/tree/Pertemuan-7) |
+|       8     | Generic Programming     | [Lihat Materi](https://github.com/ZEFRAZ/TEKNIK-PEMROGRAMAN-PRAKTIK/tree/Pertemuan-8) |
+
 
