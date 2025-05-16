@@ -17,5 +17,7 @@ Klik link di bawah untuk mengakses materi pembelajaran dari setiap pertemuan.
 |       6     | Defensive Programming                   | [Lihat Materi](https://github.com/ZEFRAZ/TEKNIK-PEMROGRAMAN-PRAKTIK/tree/Pertemuan-6) |
 |       7     | Cohesion dan Coupling     | [Lihat Materi](https://github.com/ZEFRAZ/TEKNIK-PEMROGRAMAN-PRAKTIK/tree/Pertemuan-7) |
 |       8     | Generic Programming     | [Lihat Materi](https://github.com/ZEFRAZ/TEKNIK-PEMROGRAMAN-PRAKTIK/tree/Pertemuan-8) |
+|       9     | JUnit Test     | [Lihat Materi](https://github.com/ZEFRAZ/TEKNIK-PEMROGRAMAN-PRAKTIK/tree/Pertemuan-9) |
+|       10     | Clean Code & Automated Code Review     | [Lihat Materi](https://github.com/ZEFRAZ/TEKNIK-PEMROGRAMAN-PRAKTIK/tree/Pertemuan-10) |
 
 
